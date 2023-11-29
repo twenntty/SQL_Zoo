@@ -79,7 +79,12 @@ e. Створити звіт про графік годівлі, який вкл
 
 ### Другий етап
 
+------
+
 Написання запитів до таблиці:
+
+--------
+
 а. 
 SELECT Animals.name AS animal_name, Caretakers.name AS caretaker_name
 FROM Animals
